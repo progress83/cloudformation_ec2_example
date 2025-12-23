@@ -17,3 +17,12 @@ Create your CloudFormation stack from the CLI
 <img width="839" height="248" alt="GetImage" src="https://github.com/user-attachments/assets/8c9cf3c0-4f17-44c0-9f8f-e1b80e3a0466" />
 
 <img width="1429" height="370" alt="GetImage (1)" src="https://github.com/user-attachments/assets/26add262-bf20-4dc5-bda1-8919133dd83d" />
+
+## Delete Stack from CLI
+
+<img width="576" height="68" alt="GetImage (5)" src="https://github.com/user-attachments/assets/8a577e86-db14-4127-9907-2c86be062bd6" />
+
+<img width="1437" height="299" alt="GetImage (4)" src="https://github.com/user-attachments/assets/72b3dc77-68fc-4912-abc8-437ea56ba868" />
+<img width="1437" height="51" alt="GetImage (3)" src="https://github.com/user-attachments/assets/04e2ced3-0564-4949-b76b-8739af6b48c9" />
+
+
